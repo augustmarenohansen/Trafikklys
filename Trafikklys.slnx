@@ -1,7 +1,8 @@
 <Solution>
   <Configurations>
+    <Platform Name="ARM64" />
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Trafikklys/Trafikklys.vcxproj" Id="37ef8699-ba63-458e-ab87-20362af87403" />
+  <Project Path="Trafikklys/Trafikklys.vcxproj" />
 </Solution>
